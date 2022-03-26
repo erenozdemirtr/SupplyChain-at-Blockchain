@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Süt",
+      "supplier": "Çanakkale",
+      "manufacturer": "Tekirdağ",
+      "distributor": "Balıkesir",
+      "plService": "Bursa",
+      "retailer": "İstanbul",
+      "store": "Ankara",
+      "client": "Ankara/Gölbaşı",
+      "id": "LXNRdF8"
+    },
+    {
+      "name": "Çikolata",
+      "supplier": "Erzurum",
+      "manufacturer": "Erzincan",
+      "distributor": "Sivas",
+      "plService": "Kayseri",
+      "retailer": "Nevşehir",
+      "store": "Ankara",
+      "client": "Konya/Selçuklu",
+      "id": "QEEFJzN"
+    },
+    {
+      "name": "Çay",
+      "supplier": "Artvin",
+      "manufacturer": "Rize",
+      "distributor": "Bayburt",
+      "plService": "Samsun",
+      "retailer": "Sinop",
+      "store": "Karabük",
+      "client": "Konya/Selçuklu",
+      "id": "CSyws1H"
+    },
+    {
+      "name": "Bilgisayar",
+      "supplier": "İstanbul",
+      "manufacturer": "Kocaeli",
+      "distributor": "Bolu",
+      "plService": "Yalova",
+      "retailer": "Eskişehir",
+      "store": "Ankara",
+      "client": "Konya/Selçuklu",
+      "id": "8YUYADw"
+    }
+  ]
+}
